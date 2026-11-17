@@ -4,7 +4,7 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Free photos, icons, fonts & illustrations for makers. Curated, simple, and free to use — one line per entry.
+> Free photos, icons, fonts & illustrations for makers. Curated, simple, and free to use - one line per entry.
 
 ## Why This List
 Designers, bloggers and indie hackers bookmark resource lists and share them in every "how I built my landing page" post. Entries almost never change, so upkeep is near zero.
@@ -62,4 +62,4 @@ Designers, bloggers and indie hackers bookmark resource lists and share them in 
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the resource must be free to use, with a clear free licence. One entry per resource.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
